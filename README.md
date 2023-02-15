@@ -19,10 +19,10 @@ Login page. User will be locked 24h if they fail to log in 5 times
 ![List all users](view-all-users.png)
 
 - Create new user. 
-![Create new user form](create-new-user-form.png)
+![img.png](create-new-user.png)
 
 - Edit information of existing user
-![Change user information](edit-existing-user.png)
+![img.png](edit-existing-user.png)
 
 ### 3. Category Management 
 - In this page, you can:
@@ -33,8 +33,10 @@ Login page. User will be locked 24h if they fail to log in 5 times
 - List all category:
 ![View all category](view-all-category.png)
 
+- Create new category:
 ![img.png](create-new-category.png)
 
+- Edit category:
 ![img.png](edit-existing-category.png)
 ### 4. Brand Management
 - In this page you can:
@@ -54,6 +56,7 @@ Login page. User will be locked 24h if they fail to log in 5 times
 
 - Edit existing brand:
 ![img.png](edit-existing-brand.png)
+
 ### 5. Product Management
 - In this page you can:
     - Add new product.
@@ -123,5 +126,10 @@ Sign up page
 ![img.png](customer-registration.png)
 
 - Forgot password:
-  To reset account password, customer need to enter their email to receive a link to reset their password.
+  To reset password, customer need to:
+  - Click 'Forgot Password'.
+  - Enter their email and submit.
+  - Click the reset password link sent to their email.
+  - Enter new password.
+Forgot password
 ![img.png](forgot-password.png)
