@@ -9,7 +9,10 @@ Login page. User will be locked 24h if they fail to log in 5 times
 ### 2.User Management (for 'ADMIN' only)
 - List all users:
   - Sorting users by id, name, email, full name, enabled status.
-  - To disable a user. Click :simple_smile:
+  - To disable a user: click :tw-2705:
+  - To export all users to a pdf file. Click: . Similar for export file .csv and .xlxs.
+  - To delete a user: click
+  - To eidit a user: click
 ![List all users](view-all-users.png)
 - Create new user. 
 ![Create new user form](create-new-user-form.png)
