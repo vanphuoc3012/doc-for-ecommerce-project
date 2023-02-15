@@ -16,7 +16,7 @@ Login page. User will be locked 24h if they fail to log in 5 times
   - Edit a user
 
 - List all users:
-![List all users](view-all-users.png)
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-users.png" alt="List all users" style="max-width: 100%;"></kbd>
 
 - Create new user. 
 ![img.png](create-new-user.png)
