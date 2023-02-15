@@ -2,12 +2,11 @@
 
 # Results
 
-[//]: # (<kbd><img src="" style="max-width: 100%;"></kbd>)
+[//]: # (<kbd><img src="" style="max-width: 50%;"></kbd>)
 ## Admin Application:
 ### 1.Login
 Login page. User will be locked 24h if they fail to log in 5 times
-![Login](admin-login.png)
-<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/admin-login.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/admin-login.png" style="max-width: 50%;"></kbd>
 ### 2.User Management (for 'ADMIN' only)
 - In this page you can:
   - Sorting users by id, name, email, full name, enabled status.
@@ -18,15 +17,13 @@ Login page. User will be locked 24h if they fail to log in 5 times
   - Edit a user
 
 - List all users:
-<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-users.png" alt="List all users" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-users.png" alt="List all users" style="max-width: 50%;"></kbd>
 
 - Create new user. 
-![img.png](create-new-user.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-user.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-user.png" style="max-width: 50%;"></kbd>
 
 - Edit information of existing user
-![img.png](edit-existing-user.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-user.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-user.png" style="max-width: 50%;"></kbd>
 
 ### 3. Category Management 
 - In this page, you can:
@@ -35,16 +32,13 @@ Login page. User will be locked 24h if they fail to log in 5 times
   - Delete a category (note: only category with no subcategory can be deleted)
 
 - List all category:
-![View all category](view-all-category.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-category.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-category.png" style="max-width: 50%;"></kbd>
 
 - Create new category:
-![img.png](create-new-category.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-category.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-category.png" style="max-width: 50%;"></kbd>
 
 - Edit category:
-![img.png](edit-existing-category.png)
-- <kbd><img src="" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-category.png" style="max-width: 50%;"></kbd>
 ### 4. Brand Management
 - In this page you can:
     - Add new brand.
@@ -56,16 +50,13 @@ Login page. User will be locked 24h if they fail to log in 5 times
     - Edit a user.
 
 - View all brands:
-![img.png](view-all-brands.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-brands.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-brands.png" style="max-width: 50%;"></kbd>
 
 - Create a new brand:
-![img.png](create-new-brand.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-brand.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-brand.png" style="max-width: 50%;"></kbd>
 
 - Edit existing brand:
-![img.png](edit-existing-brand.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-brand.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-brand.png" style="max-width: 50%;"></kbd>
 
 ### 5. Product Management
 - In this page you can:
@@ -78,20 +69,16 @@ Login page. User will be locked 24h if they fail to log in 5 times
     - Edit a product.
 
 - View all product
-![img.png](view-all-products.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-products.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-products.png" style="max-width: 50%;"></kbd>
 
 - Create new product (you need to enter all required fields in all tab to submit a new product).
-![img.png](create-new-product.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-product.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/create-new-product.png" style="max-width: 50%;"></kbd>
 
 - Quicky view product details.
-![img.png](view-product-information.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-product-information.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-product-information.png" style="max-width: 50%;"></kbd>
 
 - Edit product
-![img.png](edit-exsting-product.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-exsting-product.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-exsting-product.png" style="max-width: 50%;"></kbd>
 ### 6. Setting Management
 - In this page you can:
     - Change site information, currency in the 'General' tab.
@@ -101,20 +88,16 @@ Login page. User will be locked 24h if they fail to log in 5 times
     - Change payment in the 'Payment' tab.
 
 - General Setting
-![img.png](general-setting.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/general-setting.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/general-setting.png" style="max-width: 50%;"></kbd>
 
 - Countries 
-![img.png](country-setting.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/country-setting.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/country-setting.png" style="max-width: 50%;"></kbd>
 
 - States Setting
-![img.png](state-setting.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/state-setting.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/state-setting.png" style="max-width: 50%;"></kbd>
 
 - Mail Server
-![img.png](setting-mail-server.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/setting-mail-server.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/setting-mail-server.png" style="max-width: 50%;"></kbd>
 ### 7. Customer Management
 - In this page you can:
     - Sorting customers by id, full name, city, state, country, enabled status.
@@ -123,11 +106,11 @@ Login page. User will be locked 24h if they fail to log in 5 times
     - Export all customers to a pdf file. Similar for export file csv and xlxs file.
     - Delete a customer.
     - Edit a customer.
-![img.png](view-all-customer.png)
-    - <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-customer.png" style="max-width: 100%;"></kbd>
+- View all customer:
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/view-all-customer.png" style="max-width: 50%;"></kbd>
 
-![img.png](edit-existing-customer.png)
-<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-customer.png" style="max-width: 100%;"></kbd>
+- Edit customer:
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/edit-existing-customer.png" style="max-width: 50%;"></kbd>
 
 
 ## Shopping App
@@ -137,15 +120,13 @@ Login page. User will be locked 24h if they fail to log in 5 times
   - Google
   - Facebook
 - Customer login page.
-![img.png](customer-login.png)
-- <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/customer-login.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/customer-login.png" style="max-width: 50%;"></kbd>
 
 - Sign up:
   After customer submit registration form, they need check their email and click verify link to active their account.
 
 Sign up page
-![img.png](customer-registration.png)
-<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/customer-registration.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/customer-registration.png" style="max-width: 50%;"></kbd>
 
 - Forgot password:
   To reset password, customer need to:
@@ -154,5 +135,4 @@ Sign up page
   - Click the reset password link sent to their email.
   - Enter new password.
 Forgot password
-![img.png](forgot-password.png)
-  - <kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/forgot-password.png" style="max-width: 100%;"></kbd>
+<kbd><img src="https://github.com/vanphuoc3012/doc-for-ecommerce-project/blob/main/forgot-password.png" style="max-width: 50%;"></kbd>
