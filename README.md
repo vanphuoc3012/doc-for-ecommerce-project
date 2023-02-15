@@ -11,7 +11,7 @@ Login page. User will be locked 24h if they fail to log in 5 times
   - Sorting users by id, name, email, full name, enabled status.
   - Search user by entering keyword in search field and click search button.
   - Disable a user 
-  - Export all users to a .pdf file by click . Similar for export file .csv and .xlxs.
+  - Export all users to pdf, csv or xlxs file.
   - Delete a user
   - Edit a user
 
